@@ -1,21 +1,24 @@
 # Amplify – Digital Marketing Agency Website
 
-This website represents a typical agency landing page with all essential sections: hero, services, about, pricing, testimonials, and contact. The goal of the project is to demonstrate front-end development skills, UI/UX understanding, and basic client-side interactivity.
+Amplify is a digital marketing agency landing page that includes the typical sections found on modern agency websites, such as hero, services, about, pricing, testimonials, and contact.
 
-* Responsive layout built with Bootstrap grid system
-* Smooth scrolling navigation between sections
-* Interactive pricing section with automatic form pre-fill
-* Client-side form validation using JavaScript
-* Structured and readable content layout for marketing purposes
+The project was built to practice front-end development and to demonstrate working with layout structure, responsive design, and basic client-side interactions.
+
+## Features
+
+- Responsive layout using Bootstrap grid system  
+- Smooth scrolling navigation between sections  
+- Pricing section with automatic form pre-fill behavior  
+- Client-side form validation using JavaScript  
+- Clean and structured layout focused on readability and usability  
 
 ## Technologies
 
-* HTML5
-* CSS3
-* JavaScript (Vanilla)
-* Bootstrap 5
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- Bootstrap 5  
 
 ## Author
 
 Stefan Lazarević | 2025
-
