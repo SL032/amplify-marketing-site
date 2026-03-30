@@ -17,7 +17,11 @@ The project was built to practice front-end development and to demonstrate worki
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla)  
-- Bootstrap 5  
+- Bootstrap 5
+
+## Live Demo
+
+- https://sl032.github.io/amplify-marketing-site/
 
 ## Author
 
